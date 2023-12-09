@@ -2,7 +2,7 @@ const readline = require("readline");
 const fs = require("fs");
 
 const readlineInterface = readline.createInterface({
-    input: fs.createReadStream("day1/input"),
+    input: fs.createReadStream("day1/input.txt"),
 });
 
 const numberMap = {
