@@ -6,7 +6,8 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
         "day1": "node ./day1/index",
-        "day2": "node ./day2/index"
+        "day2Part1": "node ./day2/index.part1",
+        "day2Part2": "node ./day2/index.part2"
     },
     "repository": {
         "type": "git",
